@@ -5,12 +5,12 @@
 #include "PLL.h"
 
 int i=0,j=0;
-#define mes1 "HI ANKIT"	
-#define mes2 "HI AAYUSHI"
-#define mes3 "HI PRAKHAR"
-#define mes4 "HI PIZZA"
-#define mes5 "HI SYMBIOSIS"
-#define mes6 "HI McD"
+#define mes1 "Message 1"	
+#define mes2 "Message 2"
+#define mes3 "Message 3"
+#define mes4 "Message 4"
+#define mes5 "Message 5"
+#define mes6 "Message 6"
 
 
 //======================================== MAIN FUNCTION ==========================================
